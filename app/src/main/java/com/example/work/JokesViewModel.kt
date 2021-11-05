@@ -1,0 +1,1 @@
+package com.example.workimport android.widget.Buttonimport androidx.lifecycle.ViewModelclass JokesViewModel : ViewModel() {}
